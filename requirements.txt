@@ -2,5 +2,4 @@ pandas>=2.0.0
 numpy>=1.23.0
 pm4py>=2.7.5
 scikit-learn>=1.2.0
-matplotlib>=3.7.0
 jupyter
