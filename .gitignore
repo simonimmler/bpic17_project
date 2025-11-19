@@ -2,4 +2,4 @@
 data/*.xes
 data/*.xml
 .venv/
-.idea
+.idea/
