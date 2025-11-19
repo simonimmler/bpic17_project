@@ -13,5 +13,7 @@ URL: https://data.4tu.nl/articles/dataset/BPI_Challenge_2017_-_Offer_log/1270573
 
 All relevant changes are marked at the corresponding places
 
+This project was built in python 12.3
+
 You may also use the jupyter notebook/ jupyter lab. 
 If you do so make sure that you use the "BPIC Kernel" when opening the notebooks
