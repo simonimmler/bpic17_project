@@ -10,6 +10,7 @@ as it is too big for Github and adapt all paths that are marked
 with a #Todo 
 
 URL: https://data.4tu.nl/articles/dataset/BPI_Challenge_2017_-_Offer_log/12705737/1
+
 The numbers of the Notebooks correspond to the section in the report
 
 
