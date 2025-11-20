@@ -13,6 +13,7 @@ URL: https://data.4tu.nl/articles/dataset/BPI_Challenge_2017_-_Offer_log/1270573
 
 The numbers of the Notebooks correspond to the section in the report
 
+The final model is placed as an .png in figures and in models as .bpmn under the name "BPMN.bpmn"
 
 All relevant changes are marked at the corresponding places
 
